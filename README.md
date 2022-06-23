@@ -21,23 +21,23 @@ navigate autonomously.
 
 **Tasks**
 
--   To achieve our objective, we need to **[create a scaled model of the
-    house]{.ul}** and use Gazebo and ROS to create a SLAM map. We first
+-   To achieve our objective, we need to <b><u>create a scaled model of the
+    house]</u></b> and use Gazebo and ROS to create a SLAM map. We first
     create a structured model in Gazebo using the real dimensions of my
     house.
 
--   We are going to Implement the **[Unicycle variant of the Collision
-    avoidance system]{.ul}** with various controller modes such as
+-   We are going to Implement the <b><u>Unicycle variant of the Collision
+    avoidance system</u></b> with various controller modes such as
     go-to-goal; Obstacle avoidance; Wall-following etc\...
 
--   The Robot will be using the ***[Layered architecture]{.ul}*** where
+-   The Robot will be using the <b><u>Layered architecture</u></b> where
     the model will be fed various waypoints assigned inside the home for
     the Trajectory tracker to reach the desired destination. By using
     this technique, we will make our robot navigate inside the house and
     map it without colliding with walls or objects inside.
 
--   Furthermore, we are also going to **[implement another kind of
-    controller]{.ul}** which will control our Unicycle robot by
+-   Furthermore, we are also going to <b><u>implement another kind of
+    controller</u></b> which will control our Unicycle robot by
     segregating the Translation and Rotation tasks.
 
 *Full list of features and capabilities are listed in a separate section
