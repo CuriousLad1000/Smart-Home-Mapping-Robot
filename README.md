@@ -74,7 +74,7 @@ below.*
 <br/>
 
 <p align="Center">
-  <img width="1189" height="599" src="/osama.tasneem/Smart-Home-Mapping-Robot/wiki/raw/images/d0e7e3e2e0d4380aefe377819b61b182c4c86d72.png">
+  <img width="1189" height="599" src="https://raw.githubusercontent.com/wiki/CuriousLad1000/Smart-Home-Mapping-Robot/images/d0e7e3e2e0d4380aefe377819b61b182c4c86d72.png">
 </p>
 
 <br/>
@@ -86,7 +86,7 @@ below.*
 <br/>
 
 <p align="Center">
-  <img width="640" height="380" src="/osama.tasneem/Smart-Home-Mapping-Robot/wiki/raw/images/01858bdf7e55929564d2d928421c0808aa5c5128.png">
+  <img width="640" height="380" src="https://raw.githubusercontent.com/wiki/CuriousLad1000/Smart-Home-Mapping-Robot/images/01858bdf7e55929564d2d928421c0808aa5c5128.png">
 </p>
 
 <br/>
@@ -98,7 +98,7 @@ below.*
 <br/>
 
 <p align="Center">
-  <img width="640" height="380" src="/osama.tasneem/Smart-Home-Mapping-Robot/wiki/raw/images/5c701e6b1f02a3e5e281e2a4a1683950c9692b07.png">
+  <img width="640" height="380" src="https://raw.githubusercontent.com/wiki/CuriousLad1000/Smart-Home-Mapping-Robot/images/5c701e6b1f02a3e5e281e2a4a1683950c9692b07.png">
 </p>
 
 <br/>
@@ -111,7 +111,7 @@ below.*
 <br/>
 
 <p align="Center">
-  <img width="800" height="450" src="/osama.tasneem/Smart-Home-Mapping-Robot/wiki/raw/images/open_field.gif">
+  <img width="800" height="450" src="https://raw.githubusercontent.com/wiki/CuriousLad1000/Smart-Home-Mapping-Robot/images/open_field.gif">
 </p>
 
 <br/>
@@ -122,7 +122,7 @@ below.*
 <br/>
 
 <p align="Center">
-  <img width="800" height="450" src="/osama.tasneem/Smart-Home-Mapping-Robot/wiki/raw/images/Uwf.gif">
+  <img width="800" height="450" src="https://raw.githubusercontent.com/wiki/CuriousLad1000/Smart-Home-Mapping-Robot/images/Uwf.gif">
 </p>
 
 <br/>
@@ -133,7 +133,7 @@ below.*
 <br/>
 
 <p align="Center">
-  <img width="800" height="450" src="/osama.tasneem/Smart-Home-Mapping-Robot/wiki/raw/images/SLAM.gif">
+  <img width="800" height="450" src="https://raw.githubusercontent.com/wiki/CuriousLad1000/Smart-Home-Mapping-Robot/images/SLAM.gif">
 </p>
 
 <br/>
